@@ -157,7 +157,7 @@ export default function Home() {
         return (
           <div>
             <div className={styles.description}>
-              <b>{numberOfWhitelisted}</b> have already joined the Whitelist
+              <b>{numberOfWhitelisted}</b> have already joined the Whitelist, you are one of the luckiest 🎉
             </div>
 
             <div className={styles.description}>
@@ -216,15 +216,15 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Whitelist Dapp ICY3</title>
-        <meta name="description" content="Whitelist-Dapp-ICY3" />
+        <title>ICY3NFTEEE</title>
+        <meta name="description" content="ICY3NFTEEE" />
         <link rel="icon" href="/favicon.jpeg" />
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to ICY3DevNFTee!</h1>
+          <h1 className={styles.title}>Welcome to ICY3NFTeee!</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Crypto.
+            Its a special NFT collection for the special developers in Crypto.
           </div>
           {renderButton()}
         </div>
