@@ -1,5 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project, an App to interact with the "Whitelist" Smart Contract "0x592d1CfAD59Ff8636cA4F9245114D710DEfB25A8"
+This is a [Next.js](https://nextjs.org/) project, a dApp to interact with:
+   - "NFT Whitelist" Smart Contract at "0x592d1CfAD59Ff8636cA4F9245114D710DEfB25A8"
+   - "NFT Collection" Smart Contract at ""
+   - "ICO - ERC20" Smart Contract at ""
+   - "DAO" Smart Contract at ""
+   - "DEX" Smart Contract at ""
 
+It can connect using:
+   - Metamask
+   - 
 ## Getting Started
 
 First, run the development server:
